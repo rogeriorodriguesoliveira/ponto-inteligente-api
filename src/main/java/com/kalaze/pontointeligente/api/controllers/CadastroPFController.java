@@ -3,7 +3,6 @@ package com.kalaze.pontointeligente.api.controllers;
 import java.math.BigDecimal;
 import java.security.NoSuchAlgorithmException;
 import java.util.Optional;
-import java.util.function.BiFunction;
 
 import javax.validation.Valid;
 
